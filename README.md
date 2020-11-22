@@ -5,4 +5,4 @@
 
 <img src="https://i.ibb.co/GPmPwLY/mplayer.png" alt="mplayer" border="0">
 
-<h3>Enjoy programming while listening to your favorite music!</h3>
+<h3>Enjoy coding while you are listening to your favorite music!</h3>
